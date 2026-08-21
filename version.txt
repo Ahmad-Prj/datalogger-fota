@@ -1,4 +1,5 @@
 Version: v1.0.7
-Build Date: 2026-08-21 22:56:40
+Bootloader Version: v1.0.0
+Build Date: 2026-08-21 23:02:36
 File Size: 39176 bytes
 Binary: ODL_Prj_V3_0_0.bin
