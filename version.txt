@@ -1,4 +1,4 @@
-Version: v1.1.1
-Build Date: 2026-08-21 23:56:59
-File Size: 42096 bytes
+Version: v1.1.2
+Build Date: 2026-08-22 00:37:13
+File Size: 43180 bytes
 Binary: ODL_Prj_V3_0_0.bin
